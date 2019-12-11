@@ -23,19 +23,19 @@
   
 ### 4 Finger gestures
 
-  swipe up------------> workspace down
-  swipe down----------> workspace up
-  swipe left----------> workspace right
-  swipe right---------> workspace left
+  * swipe up------------> workspace down
+  * swipe down----------> workspace up
+  * swipe left----------> workspace right
+  * swipe right---------> workspace left
   
-  swipe right_down----> volume down
-  swipe left_up------->volume up
-  swipe right_up------>browser new tab
+  * swipe right_down----> volume down
+  * swipe left_up------->volume up
+  * swipe right_up------>browser new tab
   
 ### pinch
-   pinch in---->ctrl+minus
-   pinch out---->ctrl+plus
+   * pinch in---->ctrl+minus
+   * pinch out---->ctrl+plus
    
 ### rotate---(does not work everywhere)
-rotate left---->r
-rotate right--->shift+r
+* rotate left---->r
+* rotate right--->shift+r
